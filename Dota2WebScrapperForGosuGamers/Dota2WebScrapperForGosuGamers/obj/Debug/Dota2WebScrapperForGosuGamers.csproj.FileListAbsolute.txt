@@ -1,0 +1,6 @@
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\Dota2WebScrapperForGosuGamers\Dota2WebScrapperForGosuGamers\bin\Debug\Dota2WebScrapperForGosuGamers.exe.config
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\Dota2WebScrapperForGosuGamers\Dota2WebScrapperForGosuGamers\bin\Debug\Dota2WebScrapperForGosuGamers.exe
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\Dota2WebScrapperForGosuGamers\Dota2WebScrapperForGosuGamers\bin\Debug\Dota2WebScrapperForGosuGamers.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\Dota2WebScrapperForGosuGamers\Dota2WebScrapperForGosuGamers\obj\Debug\Dota2WebScrapperForGosuGamers.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\Dota2WebScrapperForGosuGamers\Dota2WebScrapperForGosuGamers\obj\Debug\Dota2WebScrapperForGosuGamers.exe
+C:\Users\Alejandro\Documents\Visual Studio 2017\Projects\Dota2WebScrapperForGosuGamers\Dota2WebScrapperForGosuGamers\obj\Debug\Dota2WebScrapperForGosuGamers.pdb
