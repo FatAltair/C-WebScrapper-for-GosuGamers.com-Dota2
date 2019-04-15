@@ -1,7 +1,7 @@
 # C-WebScrapper-for-GosuGamers.com-Dota2
 A C# Webscrapper that obtains the information of the matches played by Professional DOTA 2 Teams from GosuGamers.com.
 
-                                             Dota2GamesInformation from GosuGamers.com/Dota2
+                                Dota2GamesInformation from GosuGamers.com/Dota2
 The following software is a web scraper created, designed and done by FatAltair in 2016 as a way of obtaining information of all the matches played by Professional DOTA 2 Teams from Gosugamers.com it is made on C# in Visual Studio 2015 and I am releasing it for everyone and anyone to use and improve as they like whether here or as their own projects, it is not perfect but if this is the type of information that you are looking for it will get the job done, remember that if you have any suggestion or comment let me know as it will be useful to improve the code and my own coding skills.
 
 The software was done as to obtain professional game information from Dota 2 professional teams and use that information on another software made in Matlab that is an Artificial Intelligence and train the AI using Supervised and Unsupervised Learning as well as Neural Networks to obtain the percentage of likelihood of a professional team wining against another professional team in a specified year, month, day, hour and minute that the game will be played on, after training the AI I found that the information of at least a month previous to a professional game is between 80-90% of what will determine the winner of a game, my system predicted the winner of a match with a confidence rate of 70%.
